@@ -2,3 +2,4 @@
 Repositória criado para estudos de Git via terminal baseado no curso **Introdução ao Git e ao GitHub** da DIO
 ### Receitas
  - Pizza
+ - Pudim de Chocolate
